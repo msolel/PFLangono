@@ -1,0 +1,63 @@
+
+/*comentario
+elemento{
+    proiedad: valor;
+
+}*/
+
+header img{
+    width:100px;height:100px;
+}
+.titulo{
+    font-size: 20px;
+    color:chocolate;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    background-color: beige;
+}
+
+.claseinfo{
+    font-size: 22px;
+    font-style: italic;
+}
+
+.imagen-entrada{
+    width: 200px;
+    height: 200px;
+}
+
+.enlaces{
+    font-size: 15px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+.p-footer1{
+    font-size: 20px;
+    color:chocolate;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p-footer2{
+    font-size: 12px;
+    font-style: oblique;
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contacto{
+    font-size: 14px;
+    font-style:normal;
+    color:coral;
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img-presentacion{
+    width: 800px;
+    height: 200px;
+}
