@@ -74,6 +74,7 @@ footer{
     color:chocolate;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1cm;
 }
 
 .p-footer2{
@@ -81,6 +82,7 @@ footer{
     font-style: oblique;
     color:coral;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1cm;
 }
 
 .contacto{
@@ -98,4 +100,9 @@ footer{
 .tamaño-img-carrusel{
     height: 400px;
     width: 100%;
+}
+.imgicono{
+    margin: 1cm;
+    width: 50px;
+    height: 50px;
 }
