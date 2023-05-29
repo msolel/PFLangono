@@ -101,9 +101,9 @@ footer{
     height: 200px;
 }
 
-.tamaño-img-carrusel{
-    height: 400px;
-    width: 100%;
+.tamaño-img-carrusel{    
+   width: 100% !important;
+   height: 600px !important;
 }
 .imgicono{
     margin: 1cm;
